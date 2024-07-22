@@ -1,9 +1,8 @@
-<h1 align="left">Hola bienvenidos a mi perfil</h1>
+<h1 align="left">Hola bienvenidos a mi perfil :D</h1>
 
 ###
 
 <p align="left">Me llamo Josue Huayapa y estoy avanzando en el maravillo mundo de la programación web.</p>
-
 ###
 
 <h2 align="left">He usado estos lenguajes:</h2>
