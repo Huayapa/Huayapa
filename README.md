@@ -3,7 +3,6 @@
 ###
 
 <p align="left">Me llamo Josue Huayapa y estoy avanzando en el maravillo mundo de la programación web.</p>
-###
 
 <h2 align="left">He usado estos lenguajes:</h2>
 
