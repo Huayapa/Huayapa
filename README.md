@@ -31,4 +31,3 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Huayapa=&theme=radical)
