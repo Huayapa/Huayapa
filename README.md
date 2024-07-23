@@ -31,3 +31,5 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
 </div>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Huayapa) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Huayapa&show_icons=true)
