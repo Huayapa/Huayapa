@@ -31,4 +31,7 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
 </div>
+###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huayapa)](https://github.com/anuraghazra/github-readme-stats)
+###
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Huayapa&show_icons=true)  
