@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Me llamo Josue Huayapa y estoy avanzando en el maravillo mundo de la programación web.</p>
-<h3 align="center">Puedes visitar mi portafolio: <a href="https://portafolio-huayapa.vercel.app/proyectos" target="_blank">https://portafolio-huayapa.vercel.app/proyectos</a></h3>
+<h3 align="center">Puedes visitar mi portafolio: <a href="https://portafolio-huayapa.vercel.app" target="_blank">https://portafolio-huayapa.vercel.app</a></h3>
 <h2 align="left">He usado estos lenguajes:</h2>
 
 ###
